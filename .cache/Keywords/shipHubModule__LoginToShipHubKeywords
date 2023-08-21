@@ -1,0 +1,50 @@
+{
+  "keywordFileContentHash": "BBAD111BA19F53D519F0FE928D3201D5",
+  "keywordClasses": [
+    {
+      "name": "shipHubModule.LoginToShipHubKeywords",
+      "keywordMethods": [
+        {
+          "name": "OpeningShipHubLoginPage",
+          "parameters": [
+            {
+              "name": "URL",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyShipHubLoginPageDisplayedWithURl",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ClickLoginWithValidCredentials",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifytheLoginHappenedsuccessfully",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "OpeningShipHubLoginPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

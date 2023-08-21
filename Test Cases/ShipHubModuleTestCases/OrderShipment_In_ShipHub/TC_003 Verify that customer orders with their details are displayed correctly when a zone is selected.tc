@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_003 Verify that customer orders with their details are displayed correctly when a zone is selected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4751ffa9-2683-450c-a57f-7bc5d5539fdd</testCaseGuid>
+</TestCaseEntity>

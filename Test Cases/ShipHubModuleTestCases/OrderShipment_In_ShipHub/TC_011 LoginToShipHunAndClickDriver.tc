@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_011 LoginToShipHunAndClickDriver</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acdd0817-4fb2-49b5-820b-ce246f168357</testCaseGuid>
+</TestCaseEntity>

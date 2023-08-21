@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_010 Verify that upon navigating to the Routes Module, the application redirects the user to the Order Routing page by default</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3fe001b-e776-4b8f-9319-eb8f92f82cef</testCaseGuid>
+</TestCaseEntity>

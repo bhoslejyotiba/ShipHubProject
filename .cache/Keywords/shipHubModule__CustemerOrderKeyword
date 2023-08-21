@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "2363CF9629A8E5D9DF2ABE9137504479",
+  "keywordClasses": [
+    {
+      "name": "shipHubModule.CustemerOrderKeyword",
+      "keywordMethods": [
+        {
+          "name": "CreateCustemerOrder",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

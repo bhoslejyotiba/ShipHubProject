@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_006 Verify Filter and Clear filter zones based on the entered zip code, state, and city</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bb03afb-feb3-40be-870b-71ed98056c4a</testCaseGuid>
+</TestCaseEntity>

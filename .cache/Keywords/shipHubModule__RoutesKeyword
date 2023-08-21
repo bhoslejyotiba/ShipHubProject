@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "CDB6C26EF5A4CB43D39DAFBD70D0A64B",
+  "keywordClasses": [
+    {
+      "name": "shipHubModule.RoutesKeyword",
+      "keywordMethods": [
+        {
+          "name": "ClickLoginWithValidCredentialsInRoutes",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "SelectDeliveryDateAndPrintAllOrdersInRoutes",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "SelectOrderIdandPlanRoutes",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

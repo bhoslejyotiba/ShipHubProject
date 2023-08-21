@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_013 Verify clicking on Create Labeloption displays a popup like Please select at least one record when no orders selected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae9464d7-a160-4fab-b8f2-ec574426e78d</testCaseGuid>
+</TestCaseEntity>

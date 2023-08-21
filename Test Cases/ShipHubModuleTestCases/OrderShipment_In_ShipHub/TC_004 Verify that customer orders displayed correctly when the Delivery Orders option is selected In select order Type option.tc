@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_004 Verify that customer orders displayed correctly when the Delivery Orders option is selected In select order Type option</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f4e6a7e-27bb-476d-9361-207f92820074</testCaseGuid>
+</TestCaseEntity>

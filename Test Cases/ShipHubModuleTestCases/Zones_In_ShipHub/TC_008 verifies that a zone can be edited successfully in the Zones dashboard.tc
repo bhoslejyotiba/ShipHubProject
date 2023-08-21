@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_008 verifies that a zone can be edited successfully in the Zones dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbc7dc53-0518-48ab-a918-9ad446cf9b02</testCaseGuid>
+</TestCaseEntity>

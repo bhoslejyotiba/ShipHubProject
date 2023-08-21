@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_008 Verify green checkmark is displayed next to the order ID on the Order Summary page when a label has been created for that orde</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f89bc7e3-e297-490d-bd74-fd63c159844f</testCaseGuid>
+</TestCaseEntity>

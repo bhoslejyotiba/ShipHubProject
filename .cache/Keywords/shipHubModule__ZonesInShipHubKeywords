@@ -1,0 +1,86 @@
+{
+  "keywordFileContentHash": "8D6CA00AA42DD0C9790D00531C3E8758",
+  "keywordClasses": [
+    {
+      "name": "shipHubModule.ZonesInShipHubKeywords",
+      "keywordMethods": [
+        {
+          "name": "ClickZonesDashboard",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyZonesDashboard",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "CreateZoneUsingAddZoneButton",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyZonesCreatedSuccessfully",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ClickOnZoneToViewZoneDetails",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyViewZonesDashboard",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "AddZipCodeUsingAddZipButton",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyZipCodeAddedToZoneSuccessfully",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyFilterandClearButtonworkedSuccessfully",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifySearchBoxFieldworkedSuccessfully",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyEditZoneDashboard",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ClickDeletZipCodeUsingDeletButtonSuccessfully",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyZipCodeDeletedFromZoneSuccessfullyt",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ClickDeletButtonafromZonesDashboard",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "verifyZoneDeletedfromZoneDashboardSuccessfully",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

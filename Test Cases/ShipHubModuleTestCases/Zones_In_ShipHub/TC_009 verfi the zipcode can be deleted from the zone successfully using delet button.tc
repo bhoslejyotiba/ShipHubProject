@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_009 verfi the zipcode can be deleted from the zone successfully using delet button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1181c48d-5466-43ca-bba4-f34777804550</testCaseGuid>
+</TestCaseEntity>

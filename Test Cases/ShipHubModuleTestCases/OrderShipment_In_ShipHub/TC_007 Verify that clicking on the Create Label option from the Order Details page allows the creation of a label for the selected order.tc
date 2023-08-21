@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_007 Verify that clicking on the Create Label option from the Order Details page allows the creation of a label for the selected order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68c7f3be-88b9-481a-bd74-0dadfc4ce94e</testCaseGuid>
+</TestCaseEntity>

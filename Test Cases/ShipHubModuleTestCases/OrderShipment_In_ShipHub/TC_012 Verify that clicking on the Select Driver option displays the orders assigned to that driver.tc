@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_012 Verify that clicking on the Select Driver option displays the orders assigned to that driver</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4742b9b-6bb0-4bf0-b911-f340b17424bc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001 Verify that clicking on the Zones option in ShipHub displays the zone dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b24b53f4-1505-4ac3-8f2e-5608966565de</testCaseGuid>
+</TestCaseEntity>

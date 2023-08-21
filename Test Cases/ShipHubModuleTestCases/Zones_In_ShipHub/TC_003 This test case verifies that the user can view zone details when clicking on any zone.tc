@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_003 This test case verifies that the user can view zone details when clicking on any zone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db15220d-1a3d-41d3-a408-8ccc661929a1</testCaseGuid>
+</TestCaseEntity>

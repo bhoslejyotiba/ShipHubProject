@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_010 verifies that a zone can be deleted successfully from the Zones dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d2be9f7-2991-4730-a77a-cc0ad23a0d29</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001 Verify that upon successful login to ShipHub the user is redirected to the Order Shipment section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5883daad-1230-4f9d-b728-88c5cc1018d3</testCaseGuid>
+</TestCaseEntity>

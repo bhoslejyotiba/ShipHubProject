@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_016 VerifyLogoutHappeningSuccessfullyInShipHub</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4356039-9bfc-4b3b-8953-12015c9eac27</testCaseGuid>
+</TestCaseEntity>

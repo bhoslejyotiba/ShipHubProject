@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_006 Verify that clicking on an Order ID number displays the order details correctly</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87487677-ca8a-449d-b34a-209335e2e76b</testCaseGuid>
+</TestCaseEntity>

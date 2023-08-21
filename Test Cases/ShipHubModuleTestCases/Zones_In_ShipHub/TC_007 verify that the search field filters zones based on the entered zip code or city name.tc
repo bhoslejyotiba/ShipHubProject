@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_007 verify that the search field filters zones based on the entered zip code or city name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b558de0b-8022-478a-bf59-327f27fa9cdf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_005 Verify the the ZipCode Can be added to Zone Successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3275b741-3fc1-42f0-962d-b0c65387157b</testCaseGuid>
+</TestCaseEntity>

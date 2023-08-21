@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_014 Verify multiple records are selected the Create Label option generates the label popup with Print and Cancel buttons</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d662ccd-35d7-48a2-b3d9-eaeb6b77aa2b</testCaseGuid>
+</TestCaseEntity>
